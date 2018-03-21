@@ -40,5 +40,4 @@
     $student->getStatus('');
     $student->getName('');
 
-
 ?>
